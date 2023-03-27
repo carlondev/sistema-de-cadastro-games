@@ -2,6 +2,16 @@
 
 > Status do projeto: Em desenvolvimento.
 
+> Arquivo de teste apenas para iniciação e estudo em GitHub.
+
+Para rodar esse projeto em sua máquina, por favor digite:
+
 ```
-Arquivo de teste apenas para iniciação e estudo em GitHub.
+node app.js
 ```
+
+
+
+
+
+
