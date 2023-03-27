@@ -2,7 +2,7 @@
 
 > Status do projeto: Em desenvolvimento.
 
-> Arquivo de teste apenas para iniciação e estudo em GitHub.
+> Arquivo de teste apenas para iniciação e estudo em Git e GitHub.
 
 Para rodar esse projeto em sua máquina, por favor digite:
 
